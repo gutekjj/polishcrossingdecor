@@ -5,6 +5,8 @@ A pack for Minecraft Transport Simulator/Immersive Vehicles that adds Polish cro
 ### Gates:
 RHR-95 
 ### Signals:
-SD-K2
+SD-K2:
+![alt text](https://github.com/gutekjj/polishcrossingdecor/images/sd-k2_with_bell_single_track.png "sd-k2_with_bell_single_track")
+
 ### Bells (Just blocks that playing sounds):
 EHL-S10
