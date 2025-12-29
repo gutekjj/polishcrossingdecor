@@ -8,5 +8,3 @@ RHR-95
 SD-K2:
 ![alt text](https://github.com/gutekjj/polishcrossingdecor/blob/main/images/sd-k2_with_bell_single_track.png?raw=true "sd-k2_with_bell_single_track")
 
-### Bells (Just blocks that playing sounds):
-EHL-S10
