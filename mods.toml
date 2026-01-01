@@ -17,12 +17,16 @@ version="1"
  # Display name for the pack in the in-game mods list.
 displayName="Polish Crossing Decor (MTS/IV)"
 # A URL for the "homepage" for this pack, displayed in the mod UI.
-displayURL=""
+displayURL="https://github.com/gutekjj/polishcrossingdecor"
 # Pack logo.
 logoFile="logo.png"
 # The description text for the pack (multi line!)
 description='''
+<<<<<<< HEAD
 Adds various polish crossing gates and signals
+=======
+Adds polish crossing gates and signals
+>>>>>>> 74ee4b9effa43aa39e5c4a8ed0d3dff2030d7eba
 '''
 
 [[dependencies.polishcrossingdecor]]
