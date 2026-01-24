@@ -9,3 +9,8 @@ RHR-95:
 SD-K2:
 ![alt text](https://github.com/gutekjj/polishcrossingdecor/blob/main/images/sd-k2_with_bell_single_track.png?raw=true "sd-k2_with_bell_single_track")
 
+## Todo List:
+### Gates:
+EEG-1
+### Signals:
+EHZ-77
