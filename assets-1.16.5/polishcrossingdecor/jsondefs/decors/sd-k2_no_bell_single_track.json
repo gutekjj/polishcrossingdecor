@@ -1,0 +1,70 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.1875,
+    "height": 1.0,
+    "depth": 0.1875
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "name": "SD-K2 No Bell Single Track Cross",
+      "extraMaterialLists": [
+        []
+      ]
+    }
+  ],
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "mrygR",
+        "animations": [
+          {
+            "animationType": "visibility",
+            "variable": "10_10_0_cycle",
+            "offset": 0.0
+          }
+        ]
+      },
+      {
+        "objectName": "mrygL",
+        "animations": [
+          {
+            "animationType": "visibility",
+            "variable": "0_10_10_cycle",
+            "offset": 0.0
+          }
+        ]
+      }
+    ],
+    "lightObjects": [
+      {
+        "objectName": "swiatlo",
+        "emissive": true,
+        "variable": "redstone_active",
+        "color": "#CC0000",
+        "brightnessAnimations": [
+          {
+            "animationType": "visibility",
+            "variable": "redstone_active",
+            "clampMin": 1.0,
+            "clampMax": 1.0
+          }
+        ]
+      }
+    ],
+    "modelType": "obj"
+  },
+  "general": {
+    "name": "SD-K2 No Bell Single Track Cross",
+    "description": "Polish crossing signal without a bell and single track cross",
+    "stackSize": 64,
+    "materialLists": [
+      [
+        "minecraft:iron_ingot:5"
+      ]
+    ],
+    "radarWidth": 0.0,
+    "radarRange": 0.0
+  }
+}
