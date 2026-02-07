@@ -22,7 +22,7 @@
           {
             "animationType": "rotation",
             "variable": "redstone_active",
-            "centerPoint": [-0.2234375,0.87156875,0.1108375],
+            "centerPoint": [-0.3368125,0.8390625,-0.03125],
             "axis": [-89.0,0.0,0.0],
             "offset": 0.0,
             "clampMin": 0.0,
@@ -37,7 +37,7 @@
           {
             "animationType": "rotation",
             "variable": "redstone_active",
-            "centerPoint": [-0.2234375,0.87156875,0.1108375],
+            "centerPoint": [-0.3368125,0.8390625,-0.03125],
             "axis": [-89.0,0.0,0.0],
             "offset": 0.0,
             "clampMin": 0.0,
@@ -61,7 +61,7 @@
           {
             "animationType": "rotation",
             "variable": "redstone_active",
-            "centerPoint": [-0.2234375,0.87156875,0.1108375],
+            "centerPoint": [-0.3368125,0.8390625,-0.03125],
             "axis": [-89.0,0.0,0.0],
             "offset": 0.0,
             "clampMin": 0.0,
